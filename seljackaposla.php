@@ -1,1 +1,1 @@
-nesto numfmt_set_symbolgit a
+nesto numfmt_set_symbolgit agit
